@@ -57,3 +57,19 @@ a {
 #highlighted {
     background-color: #ffffff;
 }
+
+.good {
+    margin: auto;
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+
+.img-good-card { 
+    width: 40%;
+    height: auto;
+}
+
+.good p {
+    text-align: left;
+}
